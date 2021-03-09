@@ -29,7 +29,7 @@ $python bot.py
 
 First let's define how our chatbot should converse like. Just a flow diagram.
 
-![](https://github.com/myselfHimanshu/food-ordering-chatbot/raw/master/readme/1.png)
+
 
 ### 
 
@@ -71,7 +71,7 @@ First let's define how our chatbot should converse like. Just a flow diagram.
 
 ## Predictions
 
-![](https://github.com/myselfHimanshu/food-ordering-chatbot/raw/master/readme/3.png)
+
 
 1. **load model**: first task is to load the trained model.
 2. **start_server**: we can user Flask.
@@ -82,9 +82,7 @@ First let's define how our chatbot should converse like. Just a flow diagram.
 7. **update_tracker**: once the action is performed, we will update the tracker.
 8. **bot_text**: the bot message to user (the action).
 
-## Preparing and training the chatbot
 
-The code is provide here : [github/food-ordering-chatbot](https://github.com/myselfHimanshu/food-ordering-chatbot)
 
 ## Other components that are required
 
